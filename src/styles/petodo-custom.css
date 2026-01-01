@@ -438,13 +438,13 @@
 .json-validation-error-item {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  line-height: 1.2;
 }
 
 .json-validation-error-path {
   font-weight: 600;
   color: #c62828;
-  font-family: "Courier New", monospace;
+  font-family: monospace;
   font-size: 12px;
 }
 
