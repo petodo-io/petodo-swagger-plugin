@@ -1,8 +1,8 @@
 # Petodo Swagger Plugins
 
-[![Install with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-blue)](https://raw.githubusercontent.com/petodo-io/petodo-swagger/main/dist/petodo-swagger.user.js)
+[![Install with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-blue)](https://raw.githubusercontent.com/petodo-io/petodo-swagger-plugin/main/dist/petodo-swagger.user.js)
 
-**Installation:** [Download userscript](https://raw.githubusercontent.com/petodo-io/petodo-swagger/main/dist/petodo-swagger.user.js)
+**Installation:** [Download userscript](https://raw.githubusercontent.com/petodo-io/petodo-swagger-plugin/main/dist/petodo-swagger.user.js)
 
 To install:
 
