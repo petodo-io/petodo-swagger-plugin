@@ -12,7 +12,7 @@ Favorites: Mark popular endpoints with a star and display only favorites with a 
 
 Search: Filter by method type and path.
 
-JSON Validation: Highlights JSON errors in the request body.
+JSON Validation: Highlights JSON errors in the request body. Highlights and annotates type errors in JSON body fields.
 
 Other improvements:
 

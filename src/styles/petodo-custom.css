@@ -386,6 +386,11 @@
   border-bottom: 2px solid #f44336;
 }
 
+.json-validation-schema-highlight {
+  background-color: rgba(255, 152, 0, 0.2);
+  border-bottom: 2px solid #ff9800;
+}
+
 .json-validation-wrapper textarea {
   position: relative;
   z-index: 1;
@@ -413,6 +418,17 @@
   word-break: break-word;
 }
 
+.json-validation-schema-error {
+  margin-top: 8px;
+  padding: 12px;
+  background-color: #fff3cd;
+  border: 1px solid #ff9800;
+  border-radius: 4px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 .json-validation-error-list {
   display: flex;
   flex-direction: column;
@@ -435,6 +451,15 @@
 .json-validation-error-text {
   color: #d32f2f;
   word-break: break-word;
+}
+
+/* Schema error specific styles */
+.json-validation-schema-error .json-validation-error-path {
+  color: #e65100;
+}
+
+.json-validation-schema-error .json-validation-error-text {
+  color: #f57c00;
 }
 
 /* ===== JSON Validation ===== */
