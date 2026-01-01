@@ -5,6 +5,8 @@
 // @description  Plugins for improving Swagger UI: copy compact format, favorites endpoints, search
 // @author       Petodo
 // @match        *://*/*
+// @updateURL    https://raw.githubusercontent.com/petodo-io/petodo-swagger/main/dist/petodo-swagger.user.js
+// @downloadURL  https://raw.githubusercontent.com/petodo-io/petodo-swagger/main/dist/petodo-swagger.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
