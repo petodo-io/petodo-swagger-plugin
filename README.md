@@ -1,5 +1,7 @@
 # Petodo Swagger Plugins
 
+Browser extension (userscript) for **Swagger UI** and **OpenAPI** docs: copy endpoints, favorites, search, JSON validation, request timings. Install via **Tampermonkey**.
+
 [![Install with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-blue)](https://raw.githubusercontent.com/petodo-io/petodo-swagger-plugin/main/dist/petodo-swagger.user.js)
 
 **Installation:** [Download userscript](https://raw.githubusercontent.com/petodo-io/petodo-swagger-plugin/main/dist/petodo-swagger.user.js)
@@ -37,7 +39,7 @@ Modes:
 
 ![img_5.png](src/img/img_5.png)
 
-Request timings: last, min, max, average
+**Request timings:** last, min, max, average
 
 ![img_6.png](src/img/img_6.png)
 
